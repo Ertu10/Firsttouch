@@ -15,4 +15,4 @@ if  num.isnumeric():
 else:
   print("Adam akıllı sayı gir.")
 
-#Direk çalıştır hazır kurulum.
+#Direk çalıştır hazır kurulum.asdasdasdasdasd
